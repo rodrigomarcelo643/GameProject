@@ -4,7 +4,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET_4.x-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A production-ready Unity game template with Firebase integration, featuring authentication, leaderboard system, and save functionality. Perfect for kickstarting your next mobile or desktop game project.
 
