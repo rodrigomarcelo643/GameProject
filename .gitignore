@@ -1,0 +1,24 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+UserSettings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Firebase service account
+Backend/Firebase/serviceAccountKey.json
+
+# Environment
+.env
+Assets/Resources/env.txt
+
+# Project cache
+MemoryCaptures/

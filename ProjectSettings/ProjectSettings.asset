@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  companyName: "MyCompany"
+  productName: "GameProject"
+  defaultScreenWidth: 1080
+  defaultScreenHeight: 1920
+  defaultIsFullScreen: 1
+  bundleVersion: "1.0.0"
+  splashScreen:
+    showUnityLogo: 0
+  runInBackground: 1
+  apiCompatibilityLevelPerPlatform:
+    Standalone: ".NET 4.x"
+    Android: ".NET 4.x"
+  scriptingDefineSymbols:
+    Standalone: ""
+    Android: ""
+  activeColorSpace: 1
